@@ -7,3 +7,4 @@ if (BUILD_TESTING AND NOT __FPRIME_NO_UT_GEN__)
     add_fprime_subdirectory("${CMAKE_CURRENT_LIST_DIR}/templates/")
     add_fprime_subdirectory("${CMAKE_CURRENT_LIST_DIR}/test/")
 endif()
+Autocoders
